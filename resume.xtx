@@ -21,10 +21,17 @@
 
 \section{Experience}
 \runsubsection{Telefonica}
+\descript{| \urlstyle{same}\href{https://tokbox.com}{https://tokbox.com}| TokBox, Inc.}
+\location{Jul 2015 - Present | Madrid, Spain}
+% \vspace{\topsep} % Hacky fix for awkward extra vertical space
+\textbf{Role}: Software Engineer. \textbf{What I am doing}: Contributing to the OpenTok native codebase. \textbf{Keywords}: WebRTC Native APIs, Android, iOS, desktop (macOS, Linux, Windows).
+\sectionsep
+
+\runsubsection{Telefonica}
 \descript{| \urlstyle{same}\href{http://tid.es}{http://tid.es}| Open Web Technologies}
 \location{Nov 2009 - Jul 2015 | Madrid, Spain}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\textbf{Role}: Software Engineer. \textbf{What I did}: Building Firefox OS from scratch. Hacking on the Mozilla platform (AKA Gecko) and on several Firefox OS apps. \textbf{Keywords}: C++, XPCOM, GSM Supplementary Services, WebRTC, Service Workers, Javascript, OMA CP.
+\textbf{Role}: Software Engineer. \textbf{What I did}: Contributing to Firefox OS. Hacking on the Mozilla platform (AKA Gecko) and on several Firefox OS apps. \textbf{Keywords}: C++, XPCOM, GSM Supplementary Services, WebRTC, Service Workers, Javascript, OMA CP.
 \sectionsep
 
 \runsubsection{Telefonica}
@@ -60,13 +67,13 @@ Firefox OS & Module Peer (Settings, WAP Push and Firefox OS Hello app)\\
 
 % Awards
 
-\section{Awards} 
-\begin{tabular}{rll}
-2007 & Best Undergraduate Thesis & InfoGlobal Awards (6\textsuperscript{th} edition)\\
-2007 & Best Undergraduate Thesis & Savings bank\\
-     &                           & 'Caja Castilla La Mancha' (CCM) Awards\\
-\end{tabular}
-\sectionsep
+% \section{Awards} 
+% \begin{tabular}{rll}
+% 2007 & Best Undergraduate Thesis & InfoGlobal Awards (6\textsuperscript{th} edition)\\
+% 2007 & Best Undergraduate Thesis & Savings bank\\
+%      &                           & 'Caja Castilla La Mancha' (CCM) Awards\\
+% \end{tabular}
+% \sectionsep
 
 % Publications
 
@@ -109,7 +116,7 @@ Proactive personality \textbullet{} Avid learner \\
 \section{Interests}
 Open Source Software Engineering \\
 Open Mobile OSes \\
-The Web, Web APIs, Web Services \\
+The Web, Web APIs, WebRTC \\
 IoT, M2M \\
 VANETs, MANETs \\
 Big Data, Cloud Computing \\
