@@ -1,9 +1,9 @@
 \documentclass[]{resume}
 \usepackage{fancyhdr}
- 
+
 \pagestyle{fancy}
 \fancyhf{}
- 
+
 \rfoot{Page \thepage \hspace{1pt}}
 \begin{document}
 
@@ -15,27 +15,27 @@
 \urlstyle{same}\href{http://jaoo.es}{http://jaoo.es} | \href{mailto:jaoo@jaoo.es}{jaoo@jaoo.es} | +34667447797}
 
 % Left column
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.66\textwidth}
 
 % Experience
 
 \section{Experience}
 \runsubsection{Telefonica}
-\descript{| \urlstyle{same}\href{https://tokbox.com}{https://tokbox.com}| TokBox, Inc.}
+\descript{| TokBox, Inc.| \urlstyle{same}\href{https://tokbox.com}{https://tokbox.com}}
 \location{Jul 2015 - Present | Madrid, Spain}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \textbf{Role}: Software Engineer. \textbf{What I am doing}: Contributing to the OpenTok native codebase. \textbf{Keywords}: WebRTC Native APIs, Android, iOS, desktop (macOS, Linux, Windows).
 \sectionsep
 
 \runsubsection{Telefonica}
-\descript{| \urlstyle{same}\href{http://tid.es}{http://tid.es}| Open Web Technologies}
+\descript{| Open Web Technologies | \urlstyle{same}\href{http://tid.es}{http://tid.es}}
 \location{Nov 2009 - Jul 2015 | Madrid, Spain}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \textbf{Role}: Software Engineer. \textbf{What I did}: Contributing to Firefox OS. Hacking on the Mozilla platform (AKA Gecko) and on several Firefox OS apps. \textbf{Keywords}: C++, XPCOM, GSM Supplementary Services, WebRTC, Service Workers, Javascript, OMA CP.
 \sectionsep
 
 \runsubsection{Telefonica}
-\descript{| \urlstyle{same}\href{http://tid.es}{http://tid.es} | Networked Vehicles}
+\descript{| Networked Vehicles | \urlstyle{same}\href{http://tid.es}{http://tid.es}}
 \location{Nov 2009 - Jun 2007 | Madrid, Spain}
 \textbf{Role}: Software Engineer. \textbf{What I did}: Linux kernel hacking. Building a kernel module which implemented a simple handover mechanism for transparent, always-on V2V communications. \textbf{Keywords}: Embedded Systems, Linux Kernel, Netfilter, RFC 2003, C, VANETs, 3G, Intelligent Transportation Systems (ITS).
 \sectionsep
@@ -52,7 +52,7 @@
 \runsubsection{ARCO Group}
 \descript{| \urlstyle{same}\href{https://arco.esi.uclm.es/en}{https://arco.esi.uclm.es/en}}
 \location{Jan 2004 – Jun 2007 | University of Castille-La Manca, Ciudad Real, Spain}
-\textbf{Role}: Researcher. \textbf{What I did:} Bulding a prototipe for multimedia data broadcasting in MANETs. \textbf{Keywords}: Embedded Systems, C++, ZeroC ICE, Zeroconf, MANETs, Ambient Intelligence. 
+\textbf{Role}: Researcher. \textbf{What I did:} Bulding a prototipe for multimedia data broadcasting in MANETs. \textbf{Keywords}: Embedded Systems, C++, ZeroC ICE, Zeroconf, MANETs, Ambient Intelligence.
 \sectionsep
 
 % % Open Source
@@ -67,7 +67,7 @@ Firefox OS & Module Peer (Settings, WAP Push and Firefox OS Hello app)\\
 
 % Awards
 
-% \section{Awards} 
+% \section{Awards}
 % \begin{tabular}{rll}
 % 2007 & Best Undergraduate Thesis & InfoGlobal Awards (6\textsuperscript{th} edition)\\
 % 2007 & Best Undergraduate Thesis & Savings bank\\
@@ -77,32 +77,31 @@ Firefox OS & Module Peer (Settings, WAP Push and Firefox OS Hello app)\\
 
 % Publications
 
-\section{Publications} 
+\section{Publications}
 \renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrv}
 \bibliography{publications}
 \nocite{*}
 
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.33\textwidth}
 
 % Skills
 
 \section{Skills}
 \subsection{Programming}
 \location{Proficiency}
-C \textbullet{}   C++ \textbullet{} Javascript \\
+C \textbullet{}   C++ \\
 \location{Familiarity}
-Java \textbullet{} Python \\ 
+Java \textbullet{} Javascript \textbullet{} Python \\
 \sectionsep
 \subsection{Worked/played with}
 Firefox OS \textbullet{} Android \\
-MeeGo \textbullet{} Maemo \textbullet{} LiMo \textbullet{} Symbian \\
-Gonk (Firefox) \textbullet{} Webkit (Chrome) \\
+Gonk (Firefox) \textbullet{} Chromium \\
 Linux Kernel \textbullet{} Netfilter \\
 MANETs \textbullet{} VANETs \\
-ZeroC ICE \textbullet{} Corba \\
+ZeroC ICE \\
 \sectionsep
 
 % Pesonal skills
@@ -114,17 +113,16 @@ Proactive personality \textbullet{} Avid learner \\
 
 % Interests
 \section{Interests}
-Open Source Software Engineering \\
-Open Mobile OSes \\
+Mobile, Android Internals \\
 The Web, Web APIs, WebRTC \\
 IoT, M2M \\
 VANETs, MANETs \\
-Big Data, Cloud Computing \\
+Open Source Software Engineering \\
 Distributed Systems
 \sectionsep
 
 % Education
-\section{Education} 
+\section{Education}
 
 \subsection{University Of}
 \subsection{Castille-La Mancha}
@@ -142,9 +140,9 @@ School of Computer Science
 
 % Links
 
-\section{Links} 
+\section{Links}
 Github:// \href{https://github.com/jaoo}{\bf jaoo} \\
 LinkedIn://  \href{https://www.linkedin.com/in/jaoos}{\bf jaoos} \\
 
-\end{minipage} 
+\end{minipage}
 \end{document}
