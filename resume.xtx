@@ -42,7 +42,7 @@
 
 \runsubsection{Tecnobit}
 \descript{| \urlstyle{same}\href{http://www.tecnobit.es}{http://www.tecnobit.es}}
-\location{Sept 2003 – Jan 204 | Valdepeñas (Ciudad Real), Spain}
+\location{Sept 2003 – Jan 2004 | Valdepeñas (Ciudad Real), Spain}
 \textbf{Role}: Software Engineering Intern. \textbf{What I did}: Hacking on several QA tools and on a new information system for the quality assurance department. \textbf{Keywords}: Java, MySQL, ERP.
 \sectionsep
 
@@ -50,7 +50,7 @@
 
 \section{Research}
 \runsubsection{ARCO Group}
-\descript{| \urlstyle{same}\href{https://arco.esi.uclm.es/en}{https://arco.esi.uclm.es/en}}
+\descript{| \urlstyle{same}\href{http://www.arcoresearch.com}{http://www.arcoresearch.com}}
 \location{Jan 2004 – Jun 2007 | University of Castille-La Manca, Ciudad Real, Spain}
 \textbf{Role}: Researcher. \textbf{What I did:} Bulding a prototipe for multimedia data broadcasting in MANETs. \textbf{Keywords}: Embedded Systems, C++, ZeroC ICE, Zeroconf, MANETs, Ambient Intelligence.
 \sectionsep
@@ -59,9 +59,10 @@
 
 \section{Open Source}
 \begin{tabular}{rll}
-AOSP & Contributor\\
+Android Open Source Project & Contributor\\
 Firefox Browser & Contributor\\
-Firefox OS & Module Peer (Settings, WAP Push and Firefox OS Hello app)\\
+Firefox OS & Contributor and module peer \\
+Google WebRTC & Contributor\\
 \end{tabular}
 \sectionsep
 
@@ -97,8 +98,8 @@ C \textbullet{}   C++ \\
 Java \textbullet{} Javascript \textbullet{} Python \\
 \sectionsep
 \subsection{Worked/played with}
-Firefox OS \textbullet{} Android \\
-Gonk (Firefox) \textbullet{} Chromium \\
+Android \textbullet{} Firefox OS \\
+Chromium \textbullet{} Gonk (Firefox) \\
 Linux Kernel \textbullet{} Netfilter \\
 MANETs \textbullet{} VANETs \\
 ZeroC ICE \\
