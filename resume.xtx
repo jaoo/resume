@@ -11,7 +11,7 @@
 \lastupdated
 
 % Name
-\namesection{Jose Antonio Olivera Ortega}{}{ Software Engineer \\
+\namesection{Jose Antonio Olivera Ortega}{}{ Leading Software Engineer \\
 \urlstyle{same}\href{http://jaoo.es}{http://jaoo.es} | \href{mailto:jaoo@jaoo.es}{jaoo@jaoo.es} | +34667447797}
 
 % Left column
@@ -24,21 +24,21 @@
 \descript{| \urlstyle{same}\href{https://vonage.com}{https://vonage.com}}
 \location{Jan 2019 - Present | Madrid, Spain}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\textbf{Role}: Software Engineer. \textbf{What I am doing}: Contributing to the Vonage Video API Client SDK codebase, the Vonage WebRTC library and other ML-powered media processing libraries. \textbf{Keywords}: Android, iOS, desktop (macOS, Linux, Windows), WebRTC native APIs, Machine Learning.
+\textbf{Role}: Staff Software Engineer, Architect, Technical Squad Leader. \textbf{What I am doing}: Contributing to the Vonage Video API Client SDK codebase, the Vonage WebRTC library and other ML-powered media processing libraries. \textbf{Keywords}: Android, iOS, desktop (macOS, Linux, Windows), WebRTC native APIs, Machine Learning.
 \sectionsep
 
 \runsubsection{Telefonica}
 \descript{| TokBox, Inc.| \urlstyle{same}\href{https://tokbox.com}{https://tokbox.com}}
 \location{Jul 2015 - Jan 2019 | Madrid, Spain}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\textbf{Role}: Software Engineer. \textbf{What I did}: Contributed to the OpenTok native codebase. \textbf{Keywords}: Android, iOS, desktop (macOS, Linux, Windows), WebRTC native APIs.
+\textbf{Role}: Staff Software Engineer. \textbf{What I did}: Contributed to the OpenTok native codebase. \textbf{Keywords}: Android, iOS, desktop (macOS, Linux, Windows), WebRTC native APIs.
 \sectionsep
 
 \runsubsection{Telefonica}
 \descript{| Open Web Technologies | \urlstyle{same}\href{http://tid.es}{http://tid.es}}
 \location{Nov 2009 - Jul 2015 | Madrid, Spain}
 % \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\textbf{Role}: Software Engineer. \textbf{What I did}: Contributed to Firefox OS. Hacking on the Mozilla platform (AKA Gecko) and on several Firefox OS apps. \textbf{Keywords}: C++, XPCOM, GSM Supplementary Services, WebRTC, Service Workers, Javascript, OMA CP.
+\textbf{Role}: Technological Expert. \textbf{What I did}: Contributed to Firefox OS. Hacking on the Mozilla platform (AKA Gecko) and on several Firefox OS apps. \textbf{Keywords}: C++, XPCOM, GSM Supplementary Services, WebRTC, Service Workers, Javascript, OMA CP.
 \sectionsep
 
 \runsubsection{Telefonica}
